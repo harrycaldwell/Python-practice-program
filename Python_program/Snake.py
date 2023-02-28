@@ -1,6 +1,5 @@
 #This is what is importing the modules needed for the program
 import pygame
-import time
 import random
 ##############################################################
 
